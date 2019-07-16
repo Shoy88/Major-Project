@@ -1,0 +1,90 @@
+<style>
+body{ 
+  background-color: #eee;
+  background-image: url("raymond-james-huntington-downtown.jpg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 180px;
+}
+h2 {  
+  text-align: center;
+}
+
+form {  
+
+  margin-top: auto;
+  font  : 21px;
+  padding : 2.5em;
+  background-color: gray;
+  border-radius: 25px;
+  position: absolute;
+  left : 400px;
+  top  : 300px;
+  text-align: center;
+}
+
+
+.textarea{
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+    display: block;
+    margin-bottom: 5px;
+   }
+
+.button{ 
+   margin : 0 auto;
+     padding: 7px 10px;
+    box-shadow: inset -2px -2px 3px rgba(0, 0, 0, .6); 
+    background-color: green;
+}
+}
+}
+.body{ 
+  background-color: #eee;
+  background-image: url("raymond-james-huntington-downtown.jpg");
+   height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+.h2 {  
+  text-align: center;
+}
+
+.form {  
+  margin : 0 auto;
+  font  : 21px;
+  padding : 2.5em;
+  background-color: black;
+  border-radius: 25px;
+  position: absolute;
+  right : 400px;
+  top  : 80px;
+  text-align: center;
+}
+
+
+.textarea{
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+    display: block;
+    margin-bottom: 5px;
+   }
+
+.button{ 
+   margin : 0 auto;
+     padding: 7px 10px;
+    box-shadow: inset -2px -2px 3px rgba(0, 0, 0, .6); 
+    background-color: green;
+}
+}
+}</style>
