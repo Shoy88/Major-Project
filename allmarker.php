@@ -92,7 +92,7 @@
   
     </script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDdIwY8YByodcOLoJ2QClgN5CnR_F-1Ss&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?callback=initMap">
     </script>
   </div>
     </body>
